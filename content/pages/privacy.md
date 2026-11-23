@@ -40,9 +40,11 @@ This site follows the EU's General Data Protection Regulation (GDPR) as its stan
 
 The legal basis for the chat is legitimate interest: running a small site that answers questions from published writing. The legal basis for a note is your consent: you choose to leave one.
 
-## Children
+## ১৮ বছৰৰ তলৰ
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+এই ছাইটটো ১৮ বছৰৰ তলৰ লোকৰ বাবে নহয়। ইয়াত যীচুৰ প্ৰতি বিশ্বাসৰ কথা কোৱা হৈছে, আৰু সেয়া ধৰ্মীয় বিষয়, সেয়েহে ইয়াক প্ৰাপ্তবয়স্কসকলৰ বাবে লিখা হৈছে। আপুনি যদি ১৮ বছৰৰ তলৰ হয়, অনুগ্ৰহ কৰি ইয়াত ব্যক্তিগত তথ্য নিদিব, আৰু যোনাথনলৈ নিলিখিব।
+
+স্পেইনত আইনে কয় যে ১৪ বছৰৰ তলৰ শিশুৱে অনলাইনত ব্যক্তিগত তথ্য দিয়াৰ আগতে মাক-দেউতাক বা অভিভাৱকৰ সন্মতি ল’ব লাগিব। এই ছাইটৰ নিজৰ নিয়ম তাতকৈ কঠোৰ: ১৮ বছৰৰ তলৰ হ’লে এই ছাইট আপোনাৰ বাবে নহয়।
 
 ## Changes
 
